@@ -1,1 +1,1 @@
-# smart-sorting-of-rotten-fruits-and-veggies
+# Smart Sorting of Rotten Fruits and Vegetables Using AI and ML
